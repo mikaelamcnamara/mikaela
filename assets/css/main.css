@@ -250,7 +250,7 @@ background-image: linear-gradient(0deg, orange, #fc575e, #f95c6f, #fd9900, #fd99
 		font-size: 0.7rem;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 1036px) {
 
 		h1 {
 			font-size: 80px;
